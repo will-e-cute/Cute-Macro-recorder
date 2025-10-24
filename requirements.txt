@@ -1,0 +1,16 @@
+# Dépendances pour PyQt6 Macro Recorder - Clone Jitbit
+# Installation: pip install -r requirements.txt
+
+# Interface graphique moderne
+PyQt6>=6.0.0
+
+# Automation souris et clavier
+pyautogui>=0.9.50
+
+# Optionnel: pour les raccourcis clavier globaux
+# keyboard>=0.13.5
+# pyhook3>=1.6.1
+
+# Optionnel: pour la compilation en exe
+# auto-py-to-exe>=2.21.0
+# pyinstaller>=4.10
